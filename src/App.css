@@ -1,3 +1,11 @@
+div{
+  border:5px solid rebeccapurple;
+  margin : 10px;
+  padding :  5px;
+  color : rebeccapurple;
+}
+
+npm
 .App {
   text-align: center;
 }
